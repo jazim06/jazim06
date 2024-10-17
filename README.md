@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jazim06
 - 👀 I’m interested in Artificial Intelligence and Robotics
-- 🌱 I’m currently learning Machine Learning and Robotics
+- 🌱 I’m currently learning Machine Learning and UI/UX 
 
 
 <!---
